@@ -127,15 +127,6 @@ The system analyzes workload conditions and provides recommendations for the mos
 - Recommendation Terminal
 
 
-# Future Improvements
-
-- Full MLFQ implementation
-- Process editing and deletion
-- Database integration
-- Export reports to PDF
-- Graph visualization using Matplotlib
-- Light/Dark theme switching
-
 
 # Learning Outcomes
 
