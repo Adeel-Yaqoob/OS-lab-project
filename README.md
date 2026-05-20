@@ -127,7 +127,6 @@ The system analyzes workload conditions and provides recommendations for the mos
 - Recommendation Terminal
 
 
-
 # Learning Outcomes
 
 This project helped in understanding:
